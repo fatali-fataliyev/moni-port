@@ -1,11 +1,13 @@
-## MoniPort
+## Moni-Port
 
-MoniPort is a simple **expense management app** for group members. It calculates loans between group members and splits the amount equally between group members."
+## ![App Logo](./logo_300px_rounded.png "App Logo")
+
+Moni-Port is a simple **expense management app** for group members. It calculates loans between group members and splits the amount equally between group members.
 
 ---
 
 ### Used Libraries:
 
-| Name   | Type       |
-| ------ | ---------- |
-| Logrus | 3rd Party. |
+| Name | Type       |
+| ---- | ---------- |
+| Test | 3rd Party. |

@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("not ready yet")
+	fmt.Println("not ready yet.")
 
 }
